@@ -3,7 +3,8 @@ import NavBar from "../Components/NavBar"
 function Projects() {
   return (
     <div>
-      hello gls
+      hello hii
+      jhgjgkjg
     </div>
   )
 }
